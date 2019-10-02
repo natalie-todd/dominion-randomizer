@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DominionRandomizer</string>
+    <string name="dominion_randomizer">Dominion Randomizer</string>
+    <string name="randomize">Randomize</string>
+    <string name="yes">yes</string>
+    <string name="surprise_me">surprise me!</string>
+    <string name="no">no</string>
+    <string name="no2">no</string>
+    <string name="surprise_me2">surprise me!</string>
+    <string name="yes2">yes</string>
+    <string name="defense">Defense</string>
+    <string name="attack">Attack</string>
+</resources>
