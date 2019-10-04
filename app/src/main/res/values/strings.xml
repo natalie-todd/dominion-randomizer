@@ -10,4 +10,11 @@
     <string name="yes2">yes</string>
     <string name="defense">Defense</string>
     <string name="attack">Attack</string>
+    <string name="save">save</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="card1">card1</string>
+    <string name="card2">card2</string>
+    <string name="card3" />
+    <string name="card4" />
 </resources>
